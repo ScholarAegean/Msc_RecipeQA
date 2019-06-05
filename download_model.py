@@ -2,7 +2,6 @@
 Download the VGG and deep residual model to extract image features.
 
 Version: 1.0
-Contributor: Jiasen Lu
 """
 
 import os
