@@ -1,4 +1,4 @@
-Attentive Reader
+Baseline-Deeep Reader Model
 ================
 
 From [Teaching Machines to Read and Comprehend](http://arxiv.org/pdf/1506.03340v3.pdf):
@@ -48,9 +48,6 @@ To test an existing model:
 
 Results
 -------
-
-in progres, should be like:
-
-![result_from_paper](./assets/result_from_paper.png)
+Should be similar to RecipeQA
 
 
