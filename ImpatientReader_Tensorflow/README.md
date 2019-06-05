@@ -1,7 +1,7 @@
 Attentive Reader
 ================
 
-Tensorflow implementation of Google DeepMind's [Teaching Machines to Read and Comprehend](http://arxiv.org/pdf/1506.03340v3.pdf). This implementation contains:
+From [Teaching Machines to Read and Comprehend](http://arxiv.org/pdf/1506.03340v3.pdf):
 
 ![models](./assets/models.png)
 
@@ -54,7 +54,3 @@ in progres, should be like:
 ![result_from_paper](./assets/result_from_paper.png)
 
 
-Author
-------
-
-Taehoon Kim / [@carpedm20](http://carpedm20.github.io/)
